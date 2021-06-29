@@ -1,0 +1,2 @@
+# Linked-List-in-Python
+ A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. Linked lists are often used because of their efficient insertion and deletion. They can be used to implement stacks, queues, and other abstract data types. Here, is the implementation of various operations of Linked List in Python like insertion, deletion ,count elements ,traversal, etc.
